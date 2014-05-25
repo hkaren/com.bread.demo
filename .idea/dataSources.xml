@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1650655047">
+    <data-source source="LOCAL" name="Oracle - orcl@192.168.0.104" uuid="dcf5ee71-4c53-4d65-a603-68b30751847c">
+      <driver-ref>oracle</driver-ref>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//192.168.0.104:1521/orcl</jdbc-url>
+      <user-name>C##_GPA</user-name>
+      <user-password>dfebdfcedfc7dfc3dfc4df9bdf98df99df9e</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
